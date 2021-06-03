@@ -1,0 +1,119 @@
+{
+    "m_SelectedDeviceId": "EPHUT20507031741",
+    "m_SelectedPackage": {
+        "deviceId": "EPHUT20507031741",
+        "name": "com.enesunityudemygame.huawei",
+        "processId": 20137,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.huawei.android.launcher",
+            "processId": 2625,
+            "exited": false
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 14685,
+            "exited": true
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 19698,
+            "exited": true
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 17478,
+            "exited": true
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 17480,
+            "exited": true
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 17464,
+            "exited": true
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 17483,
+            "exited": false
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 20130,
+            "exited": false
+        },
+        {
+            "deviceId": "EPHUT20507031741",
+            "name": "com.enesunityudemygame.huawei",
+            "processId": 20137,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
